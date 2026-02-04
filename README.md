@@ -22,15 +22,15 @@ Node.js • Express.js • REST APIs
 MySQL • MongoDB  
 
 ### ☁️ Cloud & Tools  
-Microsoft Azure • Power BI • Git • GitHub • Postman • Docker • Excel • Canva  
+Microsoft Azure • Power BI • Git • GitHub • Excel • Canva  
 
 ### 🧩 Core Concepts  
 OOP • DSA • DBMS • Operating Systems • Computer Networks  
 
 ## 💼 Experience  
 
-### 🏢 KasNet Technologies Pvt. Ltd. – Data Analytics Intern  
-*(Jan 2025 – Feb 2025)*  
+### 🏢 KasNet Technologies Pvt. Ltd. – Power BI Intern  
+Jan 2025 – Feb 2025
 - Built interactive Power BI dashboards to monitor call centre KPIs such as total calls, response time, and performance metrics.  
 - Used SQL and DAX for data modeling and generating business insights.  
 - Gained hands-on experience in data visualization, reporting, and analytics workflows.  
